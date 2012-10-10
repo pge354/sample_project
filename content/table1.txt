@@ -1,0 +1,3 @@
+cordón	zapatos
+botón	camisa
+hebilla	cinturón
